@@ -1,5 +1,5 @@
 {
-  "name": "one-dark-ui",
+  "name": "one-dark-chromeless-ui",
   "theme": "ui",
   "version": "1.1.5",
   "description": "Atom One dark UI theme",
@@ -9,7 +9,7 @@
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/beamercola/one-dark-chromeless-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
